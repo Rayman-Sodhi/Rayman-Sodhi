@@ -26,14 +26,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/raymankour.sodhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/raymankour.sodhi" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rayman_sodhi_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rayman_sodhi_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/rayman_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rayman_123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/qaursodhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/qaursodhi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/raymansodhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/raymansodhi/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@raymansodhi28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@raymansodhi28" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/" height="30" width="40" /></a>
+<a href="https://fb.com/raymankour.sodhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/raymankour.sodhi" height="30" width="40" /></a>
+<a href="https://instagram.com/rayman_sodhi_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rayman_sodhi_/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rayman_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rayman_123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https:/qaursodhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/qaursodhi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raymansodhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/raymansodhi/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@raymansodhi28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@raymansodhi28" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rayman-kour-sodhi-997b651a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
