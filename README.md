@@ -47,7 +47,7 @@
 
 
 
-![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
+
 ### Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rayman-Sodhi)](https://github.com/ryo-ma/github-profile-trophy)
