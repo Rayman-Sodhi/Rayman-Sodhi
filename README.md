@@ -45,8 +45,7 @@
   
 ![Rayman's github stats](https://github-readme-stats.vercel.app/api?username=Rayman-Sodhi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-**Visitors Count:**  
-<img align="center" height="180" width="160" src="https://github.com/akshitagupta15june/akshitagupta15june/raw/master/dance.gif" style="max-width:100%;">
+
 
 ![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
 ### Profile Trophies
