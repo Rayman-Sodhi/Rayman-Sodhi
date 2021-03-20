@@ -1,4 +1,4 @@
-<img align="right" alt="" width="400" src="">
+<img align="right" alt="" width="400" src="https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/detail/background-image/">
 <img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;">
 <h1 align="center">Hi 👋, I'm Rayman Sodhi
 
