@@ -32,7 +32,7 @@
 <a href="https://fb.com/raymankour.sodhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/raymankour.sodhi" height="30" width="40" /></a>
 <a href="https://instagram.com/rayman_sodhi_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/rayman_sodhi_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/qaursodhi?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/qaursodhi?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raymansodhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/raymansodhi/" height="30" width="40" /></a>
+<a href="https://leetcode.com/Rayman-Sodhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Rayman-Sodhi/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@raymansodhi28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@raymansodhi28" height="30" width="40" /></a>
 </p>
 
