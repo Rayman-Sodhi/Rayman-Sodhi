@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I like to paint and draw.**
 
-- 🔭 Portfolio :https://rayman-sodhi.github.io/Portfolio/
+- 🔭 Portfolio :https://rayman-sodhi.github.io/my-portfolio/
 
 <img align="right" height="180" width="160" src="https://github.com/akshitagupta15june/akshitagupta15june/raw/master/meditation.gif" style="max-width:100%;">
 
