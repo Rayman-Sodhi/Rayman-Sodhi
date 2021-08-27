@@ -7,7 +7,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Rayman-Sodhi&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Rayman-Sodhi/Rayman-Sodhi?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </h1>
-<h1 align="center">You never know how strong are you until being strong is the only choice you have</h1>
+<h1 align="center">while(!(succeed=try()));</h1>
 
 
 <h3 align="left">About me:</h3>
