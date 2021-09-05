@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">A technophile and passionate Web developer and Programmer  with zeal and enthusiasm for learning ! 🐱‍🏍</h3>
+<h2 align="center">A technophile and passionate Web developer and Programmer  with zeal and enthusiasm for learning ! 🐱‍🏍</h2>
 
 
 
@@ -29,7 +29,7 @@
 
 - 🔭 Portfolio :https://rayman-sodhi.github.io/Portfolio/
 
-
+<br>
 
 ## Connect with me:🤗
 
@@ -48,6 +48,7 @@
  <p align="center">
         <img alt="Rayman-Sodhi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayman-Sodhi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
+  
   
 ## Experience 👩‍🎓
  
