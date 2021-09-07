@@ -17,7 +17,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Rayman-Sodhi&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=7FFFD4"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Rayman-Sodhi/Rayman-Sodhi?logo=markdown&label=LAST+UPDATE&color=7FFFD4&style=flat">
 
-- 🔭 I’m currently *A  Third Year undergrad in IT *
+- 🔭 I’m currently *A Third Year undergrad in IT *
 
 - 🛠 I’m currently learning *DSA and Web Development*
 
