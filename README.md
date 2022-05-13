@@ -37,9 +37,7 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:raymansodhi28@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rayman-kour-sodhi-997b651a3/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://rayman-sodhi.github.io/Portfolio/)
-[<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>](https://www.hackerearth.com/@qaursodhi)
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/qaursodhi?hr_r=1)
-[<img src="https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=Leetcode&logoColor=orange">](https://leetcode.com/RaymanSodhi/)
+
 
 
 
