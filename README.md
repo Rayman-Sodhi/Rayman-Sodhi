@@ -17,11 +17,9 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Rayman-Sodhi&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=7FFFD4"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Rayman-Sodhi/Rayman-Sodhi?logo=markdown&label=LAST+UPDATE&color=7FFFD4&style=flat">
 
-- 🔭 I’m currently *A Final Year undergrad in IT *
+- 🔭 I’m currently a *Solutions Engineer*
 
-- 🛠 I’m currently learning *DSA and Web Development*
-
-- 🎓 I study at **MAIT,GGSIPU**
+- 🎓 I studied at **MAIT,GGSIPU**
 
 - 📫 How to reach me **raymansodhi28@gmail.com**
 
@@ -48,20 +46,6 @@
 </p>
   
   
-## Experience 👩‍🎓
- 
- - ✔ Coding Instructor at Campk12
- - ✔  Mentee at Micosoft Enagage 2021
- - ✔ Open Source Contributor at GSSOC -21 
- - ✔ Mentor at DevIncept 
- - ✔ Web and Content Developer at Sparks Foundation 
-
-
-
-
-
-
-
 <p align="right">
   
 <img  src="https://github-readme-stats.vercel.app/api?username=Rayman-sodhi&show_icons=true&hide_border=true&theme=dark" width="48%"  >
@@ -80,12 +64,6 @@
 
 <br>
 
-<p align="center" >
-
-
-  <br>
-<img alt=" Rayman-Sodhi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rayman-Sodhi&bg_color=0D1117&color=ccffcc&line=ffffff&point=FFFFFF&hide_border=true" />
-</p>
 
 
 
